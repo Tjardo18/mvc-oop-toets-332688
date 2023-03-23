@@ -85,8 +85,7 @@ body {
 h1 {
     margin: 0 0 10px;
     font-weight: 500;
-    color: #08FF96;
-    text-shadow: 0px 0px 3px rgba(255,255,255,0.6);
+    color: var(--main-color);
 }
 
 h3 {
