@@ -16,7 +16,8 @@ class ZangeresModel
                         ,Land
                         ,Mobiel
                         ,Leeftijd
-                    FROM Zangeres;";
+                    FROM Zangeres
+                    ORDER BY NettoWaarde DESC;";
 
         $this->db->query($sql);
 
