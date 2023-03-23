@@ -22,6 +22,7 @@
             <li><a href="<?= URLROOT; ?>/country">Country</a></li>
             <li><a href="<?= URLROOT; ?>/voetballer">Voetballers</a></li>
             <li><a href="<?= URLROOT; ?>/vulkaan" class="active">Vulkanen</a></li>
+            <li><a href="<?= URLROOT; ?>/zangeres">Zangeressen</a></li>
         </ul>
 
         <div class="main">

@@ -14,7 +14,7 @@
     <header>
         <a href="<?= URLROOT; ?>" class="logo">
             <i class="ri-home-3-fill"></i>
-            <span>AETHEX</span>
+            <span>TJARDO</span>
         </a>
 
         <ul class="navbar">
@@ -22,6 +22,7 @@
             <li><a href="<?= URLROOT; ?>/country">Country</a></li>
             <li><a href="<?= URLROOT; ?>/voetballer" class="active">Voetballers</a></li>
             <li><a href="<?= URLROOT; ?>/vulkaan">Vulkanen</a></li>
+            <li><a href="<?= URLROOT; ?>/zangeres">Zangeressen</a></li>
         </ul>
 
         <div class="main">

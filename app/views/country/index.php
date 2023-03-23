@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,9 +8,10 @@
     <link rel="stylesheet" href="<?= URLROOT; ?>/css/style.css">
     <title>Country</title>
 </head>
+
 <body>
 
-<header>
+    <header>
         <a href="<?= URLROOT; ?>" class="logo">
             <i class="ri-home-3-fill"></i>
             <span>TJARDO</span>
@@ -20,6 +22,7 @@
             <li><a href="<?= URLROOT; ?>/country" class="active">Country</a></li>
             <li><a href="<?= URLROOT; ?>/voetballer">Voetballers</a></li>
             <li><a href="<?= URLROOT; ?>/vulkaan">Vulkanen</a></li>
+            <li><a href="<?= URLROOT; ?>/zangeres">Zangeressen</a></li>
         </ul>
 
         <div class="main">
@@ -47,4 +50,5 @@
     <script src="<?= URLROOT; ?>/js/nav.js"></script>
 
 </body>
+
 </html>
