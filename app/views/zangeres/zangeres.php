@@ -41,7 +41,7 @@
         <h1>
             <?= $data['title']; ?>
         </h1>
-        <div class="card">
+        <div class="card zangeres">
 
             <table>
                 <thead>

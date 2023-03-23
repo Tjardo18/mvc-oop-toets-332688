@@ -82,6 +82,15 @@ body {
     /* margin-top: 10px; */
 }
 
+.zangeres {
+    width: 780px;
+}
+
+i {
+    color: #FD2929;
+    cursor: pointer;    
+}
+
 h1 {
     margin: 0 0 10px;
     font-weight: 500;

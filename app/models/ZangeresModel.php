@@ -11,7 +11,8 @@ class ZangeresModel
 
     public function getZangeressen()
     {
-        $sql = "SELECT Naam
+        $sql = "SELECT Id
+                        ,Naam
                         ,NettoWaarde
                         ,Land
                         ,Mobiel
